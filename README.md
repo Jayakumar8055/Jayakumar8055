@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jayakumar B
+- 👀 I’m interested in Coding🧑‍💻, Gym 💪 and Music🎧
+- 🌱 I’m currently learning and exploring different techs:Java, Data Structure, Bash scripting, Oracle Cloud Infrastructure
+- 📫 Reach me via: jayakumarb8055@gmail.com
+- 🔗LinkedIn: https://www.linkedin.com/in/jayakumar-b-115379249
